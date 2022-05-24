@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1>Hello, I'm Audrey </h1>
-I'm a FRONTEND Developer skilled in Html, CSS, Javascript, Bootstrap, and TailwindCSS. I excel in web design and interaction as well as Mobile Responsiveness.
+I excel in web design and interaction as well as Mobile Responsiveness.
 I bring Web pages to life and enjoy doing it. I like to code things from scratch and enjoy bringing ideas to life in the browser. I value simple content structure, clean design patterns, and thoughtful interactions.
   
 ---
