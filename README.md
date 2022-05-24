@@ -37,7 +37,7 @@ I bring Web pages to life and enjoy doing it. I like to code things from scratch
 
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=audeypx&show_icons=true&theme=great-gatsby)
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=audeypx&theme=dark&background=000000)](https://git.io/streak-stats)
+<!--   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=audeypx&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=audeypx&layout=compact&theme=vision-friendly-dark)](https://github.com/audeypx/github-readme-stats)
   
